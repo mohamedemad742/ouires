@@ -1,0 +1,46 @@
+h1{
+
+    text-align: center;
+    text-transform: capitalize;
+}
+h1:hover{
+    color: blue;
+    text-decoration: underline;
+
+}
+.div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 180px;
+    margin-top: 20px;
+    background-color: azure;
+}
+.title{
+    text-align: center;
+    
+    text-decoration: underline;
+    font-size: 20px;
+    
+}
+.money{
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 65px;
+    margin-top: 10px;
+    
+}
+
+.prag{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+.div:hover{
+background-color: rgb(12, 204, 188);
+}
+
